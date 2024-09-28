@@ -1,0 +1,11 @@
+### ENV Variables
+- OPENAI_API_KEY
+- INDEX_NAME -> Pinecone index name
+- PINECONE_API_KEY
+- LANGCHAIN_TRACING_V2
+- LANGCHAIN_ENDPOINT
+- LANGCHAIN_API_KEY
+- LANGCHAIN_PROJECT
+
+### Dev requirements
+- pipenv
